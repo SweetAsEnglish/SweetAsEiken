@@ -39,6 +39,8 @@ a {
 
 .grade5 {
   position: absolute;
+  width: 100%;
+  height: auto;
   left: 25%;
   top: 30%;
   transform: translate(-50%, -50%);
