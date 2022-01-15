@@ -1,0 +1,31 @@
+*** Question List Grade 4 Section 1 ***
+
+Q.1:	My father is a (		) of a sports club. He plays tennis there every 	Wednesday night.
+	option 0: 1 festival
+	option 1: 2 picnic
+	option 2: 3 member
+	option 3: 4 group
+
+Q.2:	Mr. Clark told us many interesting (		) about his trip to India.
+	option 0: 1 pictures
+	option 1: 2 books
+	option 2: 3 stories
+	option 3: 4 magazines
+
+Q.3:	It's snowing a lot today, so please drive (		).
+	option 0: 1 slowly
+	option 1: 2 freely
+	option 2: 3 coldly
+	option 3: 4 busily
+
+Q.4:	In spring, Jane likes to walk in her grandmother's (		). She enjoys looking at the beautiful flowers there.
+	option 0: 1 stone
+	option 1: 2 sky
+	option 2: 3 garden
+	option 3: 4 wall
+
+Q.5	Many girls in my class have (		) hair.
+	option 0: 1 late
+	option 1: 2 slow
+	option 2: 3 short
+	option 3: 4 busy
