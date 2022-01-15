@@ -336,7 +336,7 @@ animation: slideInLeft .5s ease forwards
 	margin-top: 15px;
 }
 .quiz-box .answers-indicator div.correct{
-	background-color: blue;
+	background-color: green;
 	background-image: url("../Eiken Quiz/GitHub/SweetAsEiken/img/correct.png");
 	background-size: 50%;
 	background-repeat: no-repeat;
