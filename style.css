@@ -38,8 +38,8 @@ a {
 }
 
 .grade5 {
-  position: absolute;
-  width: 100%;
+  /* position: absolute; */
+  width: auto;
   height: auto;
   left: 25%;
   top: 30%;
