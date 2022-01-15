@@ -39,6 +39,7 @@ a {
 
 .grade5 {
   position: absolute;
+  min-width: 50px;
   left: 25%;
   top: 30%;
   transform: translate(-50%, -50%);
@@ -46,6 +47,7 @@ a {
 
 .grade4 {
   position: absolute;
+  min-width: 50px;
   left: 50%;
   top: 30%;
   transform: translate(-50%, -50%);
@@ -53,6 +55,7 @@ a {
 
 .grade3 {
   position: absolute;
+  min-width: 50px;
   left: 75%;
   top: 30%;
   transform: translate(-50%, -50%);
@@ -60,6 +63,7 @@ a {
 
 .gradep2 {
   position: absolute;
+  min-width: 50px;
   left: 37.5%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -67,6 +71,7 @@ a {
 
 .grade2 {
   position: absolute;
+  min-width: 50px;
   left: 62.5%;
   top: 50%;
   transform: translate(-50%, -50%);
