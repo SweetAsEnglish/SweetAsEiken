@@ -36,48 +36,111 @@ a {
   color: black;
   text-decoration: none;
 }
-@media only screen and(max-width: 400px) {
-   .btn2 span{display:none;}
+ 
+ .btnback{
+  position: absolute;
+  min-width: 70px;
+  min-height: 50px;
+  left: 50%;
+  top: 40%;
+  margin-right: 20px;
+  border:solid #000000;
+  border-radius: 10px;
+  font-family: 'MS UI Gothic';
+  font-weight: 300;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+  transform: translate(-50%, -50%); 
  }
+  
 .grade5 {
   position: absolute;
-  min-width: 50px;
-  left: 35%;
-  top: 30%;
+  min-width: 70px;
+  min-height: 50px;
+  left: 37%;
+  top: 20%;
+  margin-right: 20px;
+  border:solid #000000;
+  border-radius: 10px;
+  font-family: 'MS UI Gothic';
+  font-weight: 300;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
   transform: translate(-50%, -50%);
 }
 
 .grade4 {
   position: absolute;
-  min-width: 50px;
-  left: 50%;
-  top: 30%;
+  min-width: 70px;
+  min-height: 50px;
+  left: 63%;
+  top: 20%;
+  margin-left: 15px;
+  border:solid #000000;
+  border-radius: 10px;
+  font-family: 'MS UI Gothic';
+  font-weight: 300;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
   transform: translate(-50%, -50%);
 }
 
 .grade3 {
   position: absolute;
-  min-width: 50px;
-  left: 65%;
-  top: 30%;
+  min-width: 70px;
+  min-height: 50px;
+  left: 37%;
+  top: 35%;
+  margin-right: 20px;
+  border:solid #000000;
+  border-radius: 10px;
+  font-family: 'MS UI Gothic';
+  font-weight: 300;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
   transform: translate(-50%, -50%);
 }
 
 .gradep2 {
   position: absolute;
-  min-width: 50px;
-  left: 42.5%;
-  top: 50%;
+  min-width: 70px;
+  min-height: 50px;
+  left: 63%;
+  top: 35%;
+  margin-left: 15px;
+  border:solid #000000;
+  border-radius: 10px;
+  font-family: 'MS UI Gothic';
+  font-weight: 300;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
   transform: translate(-50%, -50%);
 }
 
 .grade2 {
   position: absolute;
-  min-width: 50px;
-  left: 57.5%;
+  min-width: 70px;
+  min-height: 50px;
+  left: 50%;
   top: 50%;
+  margin-right: 20px;
+  border:solid #000000;
+  border-radius: 10px;
+  font-family: 'MS UI Gothic';
+  font-weight: 300;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
   transform: translate(-50%, -50%);
 }
+
+/* @media only screen and (max-width:480px) {  */
+  /* .btn {width: 100%; font-size: 4.25em; } */
 
 .h-button {
   background: white;
