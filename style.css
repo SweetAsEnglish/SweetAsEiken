@@ -58,8 +58,8 @@ a {
   position: absolute;
   min-width: 70px;
   min-height: 50px;
-  left: 37%;
-  top: 20%;
+  left: 35%;
+  top: 30%;
   margin-right: 20px;
   border:solid #000000;
   border-radius: 10px;
@@ -75,8 +75,8 @@ a {
   position: absolute;
   min-width: 70px;
   min-height: 50px;
-  left: 63%;
-  top: 20%;
+  left: 65%;
+  top: 30%;
   margin-left: 15px;
   border:solid #000000;
   border-radius: 10px;
@@ -92,8 +92,8 @@ a {
   position: absolute;
   min-width: 70px;
   min-height: 50px;
-  left: 37%;
-  top: 35%;
+  left: 35%;
+  top: 45%;
   margin-right: 20px;
   border:solid #000000;
   border-radius: 10px;
@@ -109,8 +109,8 @@ a {
   position: absolute;
   min-width: 70px;
   min-height: 50px;
-  left: 63%;
-  top: 35%;
+  left: 65%;
+  top: 45%;
   margin-left: 15px;
   border:solid #000000;
   border-radius: 10px;
@@ -127,7 +127,7 @@ a {
   min-width: 70px;
   min-height: 50px;
   left: 50%;
-  top: 50%;
+  top: 60%;
   margin-right: 20px;
   border:solid #000000;
   border-radius: 10px;
