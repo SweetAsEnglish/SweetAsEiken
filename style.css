@@ -40,7 +40,7 @@ a {
 .grade5 {
   position: absolute;
   min-width: 50px;
-  left: 25%;
+  left: 35%;
   top: 30%;
   transform: translate(-50%, -50%);
 }
@@ -56,7 +56,7 @@ a {
 .grade3 {
   position: absolute;
   min-width: 50px;
-  left: 75%;
+  left: 65%;
   top: 30%;
   transform: translate(-50%, -50%);
 }
@@ -64,7 +64,7 @@ a {
 .gradep2 {
   position: absolute;
   min-width: 50px;
-  left: 37.5%;
+  left: 42.5%;
   top: 50%;
   transform: translate(-50%, -50%);
 }
@@ -72,7 +72,7 @@ a {
 .grade2 {
   position: absolute;
   min-width: 50px;
-  left: 62.5%;
+  left: 57.5%;
   top: 50%;
   transform: translate(-50%, -50%);
 }
@@ -221,7 +221,9 @@ a {
 	width:120px;
 	height:50px;
 	text-align:center;
-	font-family: 'Montserrat', sans-serif;
+	/* font-family: 'Montserrat', sans-serif; */
+	font-family: 'MS UI Gothic';
+	font-weight: 300;
 	font-size: 16px;
 	cursor: pointer;
 	display: inline-block;
