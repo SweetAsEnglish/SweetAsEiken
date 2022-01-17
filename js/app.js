@@ -143,6 +143,7 @@ function quizResult(){
 	const percentage = (correctAnswers/questionLimit)*100;
 	resultBox.querySelector(".percentage").innerHTML = percentage.toFixed(1) + "%";
 	resultBox.querySelector(".total-score").innerHTML = correctAnswers +" / " + questionLimit;
+	if (correctAnswers == questionLimit) swal("Well Done!!", "You got 100%!", "success");
 }
 
 function resetQuiz(){
