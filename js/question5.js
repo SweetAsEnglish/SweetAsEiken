@@ -101,5 +101,5 @@ const quiz = [
 	q:'Woman: Are you a cook? <br> Man: (&emsp;&emsp;&emsp;&emsp;) I work at a Chinese restaurant',
 	options:['I\'m hungry.','I don\'t know.','Yes, please.','That\'s right.'],
 	answer: 3
-},
+}
 ]
