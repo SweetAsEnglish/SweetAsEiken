@@ -101,5 +101,205 @@ const quiz = [
 	q:'Woman: Are you a cook? <br> Man: (&emsp;&emsp;&emsp;&emsp;) I work at a Chinese restaurant',
 	options:['I\'m hungry.','I don\'t know.','Yes, please.','That\'s right.'],
 	answer: 3
+},
+{
+	q:'A: What is your (&emsp;&emsp;&emsp;&emsp;)? <br> B: Kazumi Suzuki.',
+	options:['hour','club','date','name'],
+	answer: 3
+},
+{
+	q:'A: Are your baseball shoes in your room, Mike?  <br> B: No, Mom. They\'re in my (&emsp;&emsp;&emsp;&emsp;) at school.',
+	options:['window','shop','locker','door'],
+	answer: 2
+},
+{
+	q:'A: It\'s ten o\'clock, Jimmy. (&emsp;&emsp;&emsp;&emsp;) to bed.  <br> B: All right, Mom.',
+	options:['Go','Sleep','Do','Sit'],
+	answer: 0
+},
+{
+	q:'A: Do you live (&emsp;&emsp;&emsp;&emsp;) Tokyo?  <br> B: Yes. It\'s a big city.',
+	options:['after','with','on','in'],
+	answer: 3
+},
+{
+	q:'A: Where are your shoes, Ben?  <br> B: They\'re over (&emsp;&emsp;&emsp;&emsp;) by the door, Mom.',
+	options:['then','that','this','there'],
+	answer: 3
+},
+{
+	q:'A: Ted! (&emsp;&emsp;&emsp;&emsp;) read comic books in the classroom.  <br> B: Sorry, Mr. Brown.',
+	options:['Don\'t','Aren\'t','Isn\'t','Doesn\'t'],
+	answer: 0
+},
+{
+	q:'A: (&emsp;&emsp;&emsp;&emsp;) your father a teacher, Karen?  <br> B: Yes, he is.',
+	options:['Are','Is','Do','Can'],
+	answer: 1
+},
+{
+	q:'I know Judy. She can (&emsp;&emsp;&emsp;&emsp;) French very well.',
+	options:['see','drink','speak','open'],
+	answer: 2
+},
+{
+	q:'My sister usually plays tennis (&emsp;&emsp;&emsp;&emsp;) Saturdays.',
+	options:['by','on','with','at'],
+	answer: 1
+},
+{
+	q:'My mother likes (&emsp;&emsp;&emsp;&emsp;). She has many pretty ones in the garden',
+	options:['sports','movies','schools','flowers'],
+	answer: 3
+},
+{
+	q:'Let\'s begin today\'s class. Open your textbooks to  (&emsp;&emsp;&emsp;&emsp;) 22.',
+	options:['chalk','ground','page','minute'],
+	answer: 2
+},
+{
+	q:'Today is Wednesday. Tomorrow is (&emsp;&emsp;&emsp;&emsp;).',
+	options:['Monday','Tuesday','Thursday','Friday'],
+	answer: 2
+},
+{
+	q:'I usually read magazines (&emsp;&emsp;&emsp;&emsp;) home.',
+	options:['of','on','with','at'],
+	answer: 3
+},
+{
+	q:'My brother usually (&emsp;&emsp;&emsp;&emsp;) to his favorite songs after dinner.',
+	options:['helps','starts','teaches','listens'],
+	answer: 3
+},
+{
+	q:'Ellen can (&emsp;&emsp;&emsp;&emsp;) very well.',
+	options:['sing','sings','sang','singing'],
+	answer: 0
+},
+{
+	q:'Mother: (&emsp;&emsp;&emsp;&emsp;) Sally? <br> Girl: Yes, let\'s eat.',
+	options:['Do you know her,','Are you ready for dinner,','Is it cold today,','When does it start,'],
+	answer: 1
+},
+{
+	q:'Student: How long is this bridge, Mr. Watson? <br> Teacher: (&emsp;&emsp;&emsp;&emsp;)',
+	options:['400 meters.','It\'s a bridge.','It\'s Saturday.','In the morning.'],
+	answer: 0
+},
+{
+	q:'Boy: Let\'s go hiking today. <br> Mother: (&emsp;&emsp;&emsp;&emsp;) We can make some sandwiches.',
+	options:['You\'re tall.','Good idea.','You\'re welcome.','Yes, it is.'],
+	answer: 1
+},
+{
+	q:'Girl: Dad, where\'s my tennis racket? <br> Father: (&emsp;&emsp;&emsp;&emsp;)',
+	options:['Every weekend.','No, I\'m not.','Under your bed.','I like sports.'],
+	answer: 2
+},
+{
+	q:'Man: Are you from Australia? <br> Woman: (&emsp;&emsp;&emsp;&emsp;)',
+	options:['Yes, I am.','Yes, I can.','Yes, it is.','Yes, it does.'],
+	answer: 0
+},
+{
+	q:'A: Do you like (&emsp;&emsp;&emsp;&emsp;), Peter?  <br> B: Yes, I do. I like soccer.',
+	options:['music','fruit','sports','fish'],
+	answer: 2
+},
+{
+	q:'A: Bob is a good swimmer. <br> B: Yes. He is very (&emsp;&emsp;&emsp;&emsp;).',
+	options:['fast','slow','long','blue'],
+	answer: 0
+},
+{
+	q:'A: Dad, please (&emsp;&emsp;&emsp;&emsp;) me with this math homework.  <br> B: All right, Judy.',
+	options:['write','help','work','know'],
+	answer: 1
+},
+{
+	q:'A: Happy birthday, Anna. This is your (&emsp;&emsp;&emsp;&emsp;).  <br> B: Thank you, Grandpa!',
+	options:['page','pocket','present','park'],
+	answer: 2
+},
+{
+	q:'A: Does this train go from Tokyo (&emsp;&emsp;&emsp;&emsp;) Kanazawa?  <br> B: Yes, it does.',
+	options:['at','off','to','down'],
+	answer: 2
+},
+{
+	q:'A: Can I have some chocolate? <br> B: Yes, (&emsp;&emsp;&emsp;&emsp;) course.',
+	options:['with','of','after','by'],
+	answer: 1
+},
+{
+	q:'A: (&emsp;&emsp;&emsp;&emsp;) pencil case is this? It\'s very pretty.  <br> B: It\'s Cindy\'s.',
+	options:['Who','Where','When','Whose'],
+	answer: 3
+},
+{
+	q:'I have piano (&emsp;&emsp;&emsp;&emsp;) on Tuesdays.',
+	options:['doors','books','chairs','lessons'],
+	answer: 3
+},
+{
+	q:'October is the (&emsp;&emsp;&emsp;&emsp;) month of the year.',
+	options:['day','week','month','hour'],
+	answer: 2
+},
+{
+	q:'My mother plays the piano very (&emsp;&emsp;&emsp;&emsp;).',
+	options:['all','well','next','right'],
+	answer: 1
+},
+{
+	q:'Akiko drinks a (&emsp;&emsp;&emsp;&emsp;) of tea after dinner every day.',
+	options:['chair','cup','bread','lunch'],
+	answer: 1
+},
+{
+	q:'The man in this picture is my grandfather. He\'s 65 years (&emsp;&emsp;&emsp;&emsp;).',
+	options:['many','old','tall','big'],
+	answer: 1
+},
+{
+	q:'I have a camera. Let\'s (&emsp;&emsp;&emsp;&emsp;) a picture together.',
+	options:['sing','know','speak','take'],
+	answer: 3
+},
+{
+	q:'Kate has a computer. She uses (&emsp;&emsp;&emsp;&emsp;) in her room.',
+	options:['it','us','they','them'],
+	answer: 0
+},
+{
+	q:'Michelle is (&emsp;&emsp;&emsp;&emsp;) TV in the living room now.',
+	options:['watching','watch','watched','watches'],
+	answer: 0
+},
+{
+	q:'Father: What do you have in your bag? <br> Boy: (&emsp;&emsp;&emsp;&emsp;)',
+	options:['In the morning.','I play basketball.','My new shoes.','This is a new shop.'],
+	answer: 2
+},
+{
+	q:'Mother: Bye, Ellen. Have a nice day. <br> Girl: Thanks, Mom. (&emsp;&emsp;&emsp;&emsp;)',
+	options:['See you this afternoon.','It\'s in my room.','Here you are.','It\'s my homework.'],
+	answer: 0
+},
+{
+	q:'Boy 1: What do you do on Sundays? <br> Boy 2: (&emsp;&emsp;&emsp;&emsp;)',
+	options:['That\'s nice.','I\'m fine.','It\'s me.','I go to the park.'],
+	answer: 3
+},
+{
+	q:'Man: Do you often come to the pool? <br> Woman: Yes, (&emsp;&emsp;&emsp;&emsp;)',
+	options:['I skate every weekend.','I swim every day.','I walk in the park.','I like tennis.'],
+	answer: 1
+},
+{
+	q:'Girl: That\'s a big dog. What\'s his name? <br> Boy: (&emsp;&emsp;&emsp;&emsp;)',
+	options:['This is Jack.','He\'s mine.','I\'m Fred.','He\'s very nice.'],
+	answer: 0
 }
 ]
