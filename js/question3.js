@@ -202,4 +202,104 @@ const quiz = [
 	options:['Do you know the way?','Did you take a map?','Do you want to go together?','Did you stay there?'],
 	answer: 3
 },
+{
+	q:'A: Oh no! My pen has no more ink! Do you have one that I can (&emsp;&emsp;&emsp;&emsp;)? <br> B: Yes, here you are.',
+	options:['tell','think','borrow','put'],
+	answer: 2
+},
+{
+	q:'A: What happened, Sharon? Why is your dress so (&emsp;&emsp;&emsp;&emsp;)? <br> B: It was raining hard, and I fell off my bike.',
+	options:['tall','short','dirty','useful'],
+	answer: 2
+},
+{
+	q:'A: Jane, how does this dress look on me?  <br> B: Really nice. Look in the (&emsp;&emsp;&emsp;&emsp;) over there.',
+	options:['center','counter','cloud','mirror'],
+	answer: 3
+},
+{
+	q:'A: Do you know the new (&emsp;&emsp;&emsp;&emsp;) student from Japan? <br> B: Yes. His name is Kentaro. He\'s in my class.',
+	options:['cover','exchange','plan','surpise'],
+	answer: 1
+},
+{
+	q:'A: Here\'s the salad dressing, Tony. (&emsp;&emsp;&emsp;&emsp;) it well before you use it. <br> B: All right, Mom.',
+	options:['Call','Build','Invite','Shake'],
+	answer: 3
+},
+{
+	q:'A: Can I help with dinner, Mom?  <br> B: Sure. (&emsp;&emsp;&emsp;&emsp;) of all, cut these potatoes and onions.',
+	options:['First','More','Quick','Small'],
+	answer: 0
+},
+{
+	q:'A: Mom, can we make an apple pie together?  <br> B: Sure. It\'s a  (&emsp;&emsp;&emsp;&emsp;) difficult, but I think we can do it.',
+	options:['high','few','much','little'],
+	answer: 3
+},
+{
+	q:'A: I\'m going to study now, so please (&emsp;&emsp;&emsp;&emsp;) on my door if yo need to talk to me. <br> B: OK, Mike.',
+	options:['knock','decide','agree','smell'],
+	answer: 0
+},
+{
+	q:'A: Do you have time now, Doug?  <br> B: No, I\'m sorry.   (&emsp;&emsp;&emsp;&emsp;) fact, I have to leave for a meeting now. I\'ll call you later.',
+	options:['In','At','By','On'],
+	answer: 0
+},
+{
+	q:'A: I don\'t know (&emsp;&emsp;&emsp;&emsp;) Central Park is. <br> B: It\'s near here. I\'ll show you.',
+	options:['who','where','when','why'],
+	answer: 1
+},
+{
+	q:'A: How was the basketball tournament?  <br> B: Not good. We were the (&emsp;&emsp;&emsp;&emsp;) team there. We didn\'t win any games.',
+	options:['poor','worst','worse','bad'],
+	answer: 1
+},
+{
+	q:'Janet is a (&emsp;&emsp;&emsp;&emsp;). She works for a newspaper. She often visits other countries and writes stories about them.',
+	options:['designer','guard','coach','journalist'],
+	answer:3
+},
+{
+	q:'Some people think we should try to (&emsp;&emsp;&emsp;&emsp;) old things. Others think people buy too many new things.',
+	options:['raise','rise','repeat','recycle'],
+	answer:3
+},
+{
+	q:'Emma went shopping at the new department store yesterday. She bought a jacket and a new (&emsp;&emsp;&emsp;&emsp;) of jeans.',
+	options:['piece','pair','slice','sheet'],
+	answer:1
+},
+{
+	q:'The town is famous for its beautiful old buildings. It has many houses (&emsp;&emsp;&emsp;&emsp;) in the last century.',
+	options:['build','builds','built','building'],
+	answer:2
+},
+{
+	q:'Woman: I want to go and see the dolphin show at the aquarium. Are you free this weekend? <br> Man: I\'m not sure. I\'ll check my schedule, and (&emsp;&emsp;&emsp;&emsp;)',
+	options:['I\'ll call you tonight.','you\'ll like the show.','I\'ll take it.','you can swim fast.'],
+	answer: 0
+},
+{
+	q:'Woman: Thank you very much for giving me advice. <br> Man: (&emsp;&emsp;&emsp;&emsp;) Good luck with your interview tomorrow. <br> Woman: Thank you.',
+	options:['Not at all.','Let me see.','No, thanks.','You gave me one.'],
+	answer: 0
+},
+{
+	q:'Man: I\'m going on vacation next month. <br> Woman: Great! (&emsp;&emsp;&emsp;&emsp;) <br> Man: I\'ll take a tour of South America.',
+	options:['Where\'s your passport?','When do you leave?','What are your plans?','How long is it?'],
+	answer: 2
+},
+{
+	q:'Man: Are you ready to go to dinner? <br> Woman: Yes. (&emsp;&emsp;&emsp;&emsp;) <br> Man: Great idea! I don\'t want to walk in the rain, either.',
+	options:['Let\'s walk there.','Let\'s take a taxi.','Let\'s cook now.','Let\'s stay home.'],
+	answer: 1
+},
+{
+	q:'Woman: Hi, John. What time is it? I forgot my watch. <br> Man: Sorry, Janet. I don\'t know. (&emsp;&emsp;&emsp;&emsp;) <br> Woman: No problem. I\'ll ask Peter.',
+	options:['That\'s interesting.','I can\'t call you.','It\'s too late.','I left mine at home.'],
+	answer: 3
+}
 ]
