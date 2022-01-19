@@ -376,5 +376,130 @@ const quiz = [
 	q:'A: Hi. I\'m looking for a book called <i>Under the Ground</i>. <br> B: Let me check...I\'m sorry. (&emsp;&emsp;&emsp;&emsp;). <br> A: Can I order it here? <br> B: Of course. It might take a week or two to arrive, though. <br> A: That\'s OK. I don\'t mind waiting.' ,
 	options:['Our store will close soon','We don\'t have it right now','I\'ve never read that book','He isn\'t here today'],
 	answer:1
+},
+{
+	q:'A: Is Leo going to help you with your history report?  <br> B:  No. He doesn\'t have time. But it doesn\'t (&emsp;&emsp;&emsp;&emsp;). Mary said she would help me.',
+	options:['reflect','matter','occur','differ'],
+	answer:1
+},
+{
+	q:'A: Are you going to Jim\'s birthday party on Saturday?  <br> B: No. I didn\'t get an (&emsp;&emsp;&emsp;&emsp;).',
+	options:['aquarium','activity','invitation','injury'],
+	answer:2
+},
+{
+	q:'A: Hi, Naomi. How was your camping trip?  <br> B: It was a real (&emsp;&emsp;&emsp;&emsp;)! I did exciting things like hiking in the rain, camping on the side of a mountain, and catching fish in a river.',
+	options:['adventure','opinion','entrance','interview'],
+	answer:0
+},
+{
+	q:'A: Is it quicker to wait for a bus to the station or to walk there? <br> B: It\'s not far, so I guess either would take (&emsp;&emsp;&emsp;&emsp;) the same amount of time.',
+	options:['day by day','more or less','on or off','piece by piece'],
+	answer:1
+},
+{
+	q:'A: Doctor, I hurt my foot while playing soccer yesterday. <br> B:  Well, sit down and let me (&emsp;&emsp;&emsp;&emsp;) a look.',
+	options:['take','help','stop','make'],
+	answer:0
+},
+{
+	q:'A: Making a cake was fun, but look at the kitchen. It\'s a mess! <br> B: OK. You wash the dishes, and I\'ll clean (&emsp;&emsp;&emsp;&emsp;) the table and the floor.',
+	options:['on','in','up','over'],
+	answer:2
+},
+{
+	q:'A: Mom, playing the piano is so difficult. <br> B: It\'s hard at first. But the more you practice, (&emsp;&emsp;&emsp;&emsp;) it becomes.',
+	options:['the easiest','the easier','as easy as','easier than'],
+	answer:1
+},
+{
+	q:'A: I (&emsp;&emsp;&emsp;&emsp;) the family photo album, but I couldn\'t find the picture of Grandma and me in Kyoto. <br> B: Oh, I gave that one to Grandma. She wants to put it on the wall in her living room.',
+	options:['went through','went around','got with','got over'],
+	answer:0
+},
+{
+	q:'When Steve reads Shakespeare\'s plays, he likes to read them (&emsp;&emsp;&emsp;&emsp;) so he can enjoy the beautiful sounds of the words.',
+	options:['forever','aloud','angrily','late'],
+	answer:1
+},
+{
+	q:'Some of the books in the school library are very old, so Mr. Smith always tells his students to be careful not to (&emsp;&emsp;&emsp;&emsp;) them when they read them.',
+	options:['prepare','damage','include','forgive'],
+	answer:1
+},
+{
+	q:'The cyclists were able to ride their bikes very fast because they were being (&emsp;&emsp;&emsp;&emsp;) by the wind. It was blowing strongly from behind them.',
+	options:['recalled','destroyed','aided','shaped'],
+	answer:2
+},
+{
+	q:'After hiking for two hours, John became (&emsp;&emsp;&emsp;&emsp;), so he stopped to drink some water.',
+	options:['unknown','ordinary','thirsty','correct'],
+	answer:2
+},
+{
+	q:'Heather wanted to make a necklace for her mother, but she did not have the (&emsp;&emsp;&emsp;&emsp;). She had to go out and buy some colorful stones and a string.',
+	options:['productions','operations','voyages','materials'],
+	answer:3
+},
+{
+	q:'Gary is (&emsp;&emsp;&emsp;&emsp;) to buy a new computer, so he tries to avoid spending too much on other things.',
+	options:['matching','typing','publishing','saving'],
+	answer:3
+},
+{
+	q:'Tina stepped on her little brother\'s toy airplane and broke one of its (&emsp;&emsp;&emsp;&emsp;). She was very sorry about it, so she bought him a new one.',
+	options:['caves','wings','branches','voices'],
+	answer:1
+},
+{
+	q:'After Sarah failed her science test, she stayed in her room all evening. She did not (&emsp;&emsp;&emsp;&emsp;) until the next morning when her mom called her for breakfast.',
+	options:['come out','bring in','carry out','take in'],
+	answer:0
+},
+{
+	q:'When Rachel smiled (&emsp;&emsp;&emsp;&emsp;) Tony, he felt so happy that he started smiling, too.',
+	options:['across','off','into','at'],
+	answer:3
+},
+{
+	q:'The captain of the softball team told the other players that it is important for each of them to (&emsp;&emsp;&emsp;&emsp;) in the game. They all have to do their jobs in order to win.',
+	options:['keep left','lose sight','play a role','have a break'],
+	answer:2
+},
+{
+	q:'Matt lives very close to the building (&emsp;&emsp;&emsp;&emsp;) he works. It only takes him 10 minutes to get there in the morning.',
+	options:['how','why','what','where'],
+	answer:3
+},
+{
+	q:'Wendy wanted to go to Hawaii for spring vacation, but her father was (&emsp;&emsp;&emsp;&emsp;) the idea. He said the trip would cost too much money.',
+	options:['before','beyond','within','against'],
+	answer:3
+},
+{
+	q:'A: What are your plans for next year, Stacy? <br> B: I\'m going to take part in a marathon race every month. <br> A: Wow! I guess you\'ll have to (&emsp;&emsp;&emsp;&emsp;) to do that. <br> B: Yes. The first one is in Hokkaido, and the next one is in Okinawa.' ,
+	options:['lose a lot of weight','train for many years','buy some new running shoes','travel around the country'],
+	answer:3
+},
+{
+	q:'A: We need to stop and get some gas soon. My car\'s gas tank is nearly empty. <br> B: We passed a gas station two minutes ago. <br> A: Do you think we should (&emsp;&emsp;&emsp;&emsp;)? <br> B: No. It\'s OK. I can see another one ahead.' ,
+	options:['ask someone','walk the rest of the way','get a bigger car','turn around and go back'],
+	answer:3
+},
+{
+	q:'A: Good morning, sir. How can I help you? <br> B: I\'m looking for (&emsp;&emsp;&emsp;&emsp;) for work. <br> A: How about this one? It\'s light and easy to carry. <br> B: It looks wonderful, and it has many pockets.' ,
+	options:['some black shoes','a nice necktie','a new bag','a small umbrella'],
+	answer:2
+},
+{
+	q:'A: Thank you for calling the Bay View Hotel. How can I help you? <br> B: I\'d like to reserve a room for Saturday night, please. <br> A: I\'m sorry, sir, but (&emsp;&emsp;&emsp;&emsp;) at the moment. We can\'t take any reservations right now. <br> B: When will it be fixed? <br> A: In about 30 minutes.' ,
+	options:['all the rooms in the hotel are full','the shuttle bus is not running','the elevator is going up','our computer system is not working'],
+	answer:3
+},
+{
+	q:'A: I\'d like to reserve a room for Saturday night, please. <br> B: I\'m sorry, sir, but our computer is broken at the moment. We can\'t take any reservations right now. <br> A: When will it be fixed? <br> B: In about 30 minutes. <br> A: OK. Can you (&emsp;&emsp;&emsp;&emsp;)? My name\'s Daniel Carter, and my number is 025-3345-56789. <br> B: Of course, sir.' ,
+	options:['call me back when it\'s ready','recommend another hotel','give a message to the manager','mail me one of your travel guides'],
+	answer:0
 }
 ]
