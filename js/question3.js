@@ -238,7 +238,7 @@ const quiz = [
 	answer: 3
 },
 {
-	q:'A: I\'m going to study now, so please (&emsp;&emsp;&emsp;&emsp;) on my door if yo need to talk to me. <br> B: OK, Mike.',
+	q:'A: I\'m going to study now, so please (&emsp;&emsp;&emsp;&emsp;) on my door if you need to talk to me. <br> B: OK, Mike.',
 	options:['knock','decide','agree','smell'],
 	answer: 0
 },
