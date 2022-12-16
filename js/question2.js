@@ -148,7 +148,7 @@ const quiz = [
         answer: 2
     },
     {
-        q: 'At least seven hours sleep a night (&emsp;&emsp;&emsp;&emsp;) to be very important. Many experts say it helps prevent diseases later in life',
+        q: 'At least seven hours sleep a night (&emsp;&emsp;&emsp;&emsp;) to be very important. Many experts say it helps prevent diseases later in life.',
         options: ['has said', 'says', 'is saying', 'is said'],
         answer: 3
     },
