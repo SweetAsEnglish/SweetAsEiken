@@ -161,5 +161,5 @@ const quiz = [
         q: 'A: This movie is going to be very expensive and take a long time to make, Mr. Cameron. (&emsp;&emsp;&emsp;&emsp;) cancel it?   <br> B: No, I\'m sure it will make a lot of money, eventually.',
         options: ['What about', 'What for', 'How come', 'Why not'],
         answer: 3
-    },
+    }
 ]	
