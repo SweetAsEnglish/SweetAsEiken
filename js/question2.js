@@ -48,7 +48,7 @@ const quiz = [
         answer: 2
     },
     {
-        q: 'The police had (&emsp;&emsp;&emsp;&emsp;) that showed the man had robbed the store. His face could be seen on a video taken by the store’s security cameras.',
+        q: 'The police had (&emsp;&emsp;&emsp;&emsp;) that showed the man had robbed the store. His face could be seen on a video taken by the store\'s security cameras.',
         options: ['evidence', 'praise', 'rhythm', 'harmony'],
         answer: 0
     },
@@ -136,5 +136,30 @@ const quiz = [
         q: 'A: I\'m thinking of visiting Shizuoka in January.   <br> B: Really? I think you should wait until April. Shizuoka is (&emsp;&emsp;&emsp;&emsp;) then. The weather is warmer and the cherry blossoms are beautiful.',
         options: ['behind its back', 'against its will', 'at its best', 'in its opinion'],
         answer: 2
-    }
+    },
+    {
+        q: 'Sarina spent the holidays traveling around Asia with her family. Everyone had a lot of fun, so they were really sad when it (&emsp;&emsp;&emsp;&emsp;) an end.',
+        options: ['finished up', 'came to', 'took over', 'fell on'],
+        answer: 1
+    },
+    {
+        q: 'In Japan, it is difficult for students to decide (&emsp;&emsp;&emsp;&emsp;) a high school to enter after junior high school.',
+        options: ['with', 'in', 'on', 'for'],
+        answer: 2
+    },
+    {
+        q: 'At least seven hours sleep a night (&emsp;&emsp;&emsp;&emsp;) to be very important. Many experts say it helps prevent diseases later in life',
+        options: ['has said', 'says', 'is saying', 'is said'],
+        answer: 3
+    },
+    {
+        q: 'It is because fast food is convenient and cheap (&emsp;&emsp;&emsp;&emsp;) it is so popular with teenagers.',
+        options: ['that', 'if', 'why', 'which'],
+        answer: 0
+    },
+    {
+        q: 'A: This movie is going to be very expensive and take a long time to make, Mr. Cameron. (&emsp;&emsp;&emsp;&emsp;) cancel it?   <br> B: No, I\'m sure it will make a lot of money, eventually.',
+        options: ['What about', 'What for', 'How come', 'Why not'],
+        answer: 3
+    },
 ]	
