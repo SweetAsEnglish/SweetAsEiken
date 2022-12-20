@@ -161,5 +161,25 @@ const quiz = [
         q: 'A: This movie is going to be very expensive and take a long time to make, Mr. Cameron. (&emsp;&emsp;&emsp;&emsp;) cancel it?   <br> B: No, I\'m sure it will make a lot of money, eventually.',
         options: ['What about', 'What for', 'How come', 'Why not'],
         answer: 3
+    },
+    {
+        q: 'Henry\'s hobby is (&emsp;&emsp;&emsp;&emsp;) music. He wrote a new song for his girlfriend and played it for her on Valentine\'s Day',
+        options: ['rescuing', 'flattering', 'composing', 'declaring'],
+        answer: 2
+    },
+    {
+        q: 'Charlie decided on (&emsp;&emsp;&emsp;&emsp;) for his project at university. The focus was on how humans orginally came from apes.',
+        options: ['evolution', 'economics', 'humanity', 'psychology'],
+        answer: 0
+    },
+    {
+        q: 'Nick and his brother had an (&emsp;&emsp;&emsp;&emsp;) about whose turn it was to cook dinner. They each thought that they were the one who had prepared it last time.',
+        options: ['appointment', 'argument', 'occaison', 'identity'],
+        answer: 1
+    },
+    {
+        q: 'Mike closed his window because the sound of traffic outside was (&emsp;&emsp;&emsp;&emsp;) him a lot.',
+        options: ['irritating', 'exchanging', 'evolving', 'detecting'],
+        answer: 0
     }
 ]	
