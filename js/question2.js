@@ -163,7 +163,7 @@ const quiz = [
         answer: 3
     },
     {
-        q: 'Henry\'s hobby is (&emsp;&emsp;&emsp;&emsp;) music. He wrote a new song for his girlfriend and played it for her on Valentine\'s Day',
+        q: 'Henry\'s hobby is (&emsp;&emsp;&emsp;&emsp;) music. He wrote a new song for his girlfriend and played it for her on Valentine\'s Day.',
         options: ['rescuing', 'flattering', 'composing', 'declaring'],
         answer: 2
     },
