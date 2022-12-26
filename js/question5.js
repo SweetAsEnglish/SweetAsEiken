@@ -301,5 +301,20 @@ const quiz = [
 		q: 'Girl: That\'s a big dog. What\'s his name? <br> Boy: (&emsp;&emsp;&emsp;&emsp;)',
 		options: ['This is Jack.', 'He\'s mine.', 'I\'m Fred.', 'He\'s very nice.'],
 		answer: 0
+	},
+	{
+		q: 'A: Look at that (&emsp;&emsp;&emsp;&emsp;) over there, Jack. <br> B: Wow! The water is very blue.',
+		options: ['class', 'river', 'foot', 'textbook'],
+		answer: 1
+	},
+	{
+		q: 'A: What is your favorite (&emsp;&emsp;&emsp;&emsp;)? <br> B: I like red.',
+		options: ['milk', 'fruit', 'color', 'pet'],
+		answer: 2
+	},
+	{
+		q: 'Adam and I often go to the park. We (&emsp;&emsp;&emsp;&emsp;) pictures of flowers there.',
+		options: ['read', 'tell', 'say', 'draw'],
+		answer: 3
 	}
 ]
