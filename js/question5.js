@@ -316,5 +316,89 @@ const quiz = [
 		q: 'Adam and I often go to the park. We (&emsp;&emsp;&emsp;&emsp;) pictures of flowers there.',
 		options: ['read', 'tell', 'say', 'draw'],
 		answer: 3
+	},
+	{
+		q: 'A: Is it (&emsp;&emsp;&emsp;&emsp;) today? <br> B: No, it\'s sunny and warm.',
+		options: ['tall', 'young', 'cold', 'new'],
+		answer: 2
+	},
+	{
+		q: 'A: Do you like music, Karen? <br> B: Yes, I do. I play the (&emsp;&emsp;&emsp;&emsp;).',
+		options: ['hat', 'camera', 'violin', 'desk'],
+		answer: 2
+	},
+	{
+		q: 'A: What are you (&emsp;&emsp;&emsp;&emsp;)? <br> B: Chocolate cookies.',
+		options: ['sleeping', 'playing', 'running', 'making'],
+		answer: 3
+	},
+	{
+		q: 'A: Do you want some water, Kevin? <br> B: Yes, please. I\'m really (&emsp;&emsp;&emsp;&emsp;).',
+		options: ['soft', 'thirsty', 'kind', 'new'],
+		answer: 1
+	},
+	{
+		q: 'Ryuji is Japanese. He\'s (&emsp;&emsp;&emsp;&emsp;) Osaka.',
+		options: ['with', 'about', 'under', 'from'],
+		answer: 3
+	},
+	{
+		q: 'A: Do you want some cake? <br> B: No, (&emsp;&emsp;&emsp;&emsp;) you.',
+		options: ['enjoy', 'thank', 'give', 'speak'],
+		answer: 1
+	},
+	{
+		q: 'A: Hello, Mr. Green. <br> B: Hi, Sara. Please come in and (&emsp;&emsp;&emsp;&emsp;) down.',
+		options: ['sit', 'help', 'sing', 'listen'],
+		answer: 0
+	},
+	{
+		q: 'A: How (&emsp;&emsp;&emsp;&emsp;) is your brother? <br> B: He\'s four.',
+		options: ['long', 'cloudy', 'old', 'many'],
+		answer: 2
+	},
+	{
+		q: 'A: Let\'s go to the park (&emsp;&emsp;&emsp;&emsp;) the afternoon, Dad. <br> B: OK.',
+		options: ['of', 'in', 'at', 'on'],
+		answer: 1
+	},
+	{
+		q: 'Please (&emsp;&emsp;&emsp;&emsp;) eat in the library.',
+		options: ['aren\'t', 'no', 'don\'t', 'not'],
+		answer: 2
+	},
+	{
+		q: 'Sally and Patty (&emsp;&emsp;&emsp;&emsp;) good friends. They go jogging together.',
+		options: ['are', 'is', 'be', 'am'],
+		answer: 0
+	},
+	{
+		q: 'A: Is this notebook (&emsp;&emsp;&emsp;&emsp;)? <br> B: No, it\'s Helen\'s.',
+		options: ['my', 'her', 'yours', 'our'],
+		answer: 2
+	},
+	{
+		q: 'Teacher: Where is your history textbook, Ben? <br> Student: I\'m sorry. (&emsp;&emsp;&emsp;&emsp;)', options: ['It\'s at home.', 'It\'s OK.', 'I go to school.', 'I read it.'],
+		answer: 0
+	},
+	{
+		q: 'Girl 1: I don\'t know that man in the gym. (&emsp;&emsp;&emsp;&emsp;) <br> Girl 2: Mr. Williams.',
+		options: ['How are you?', 'Where is his camera?', 'What\'s his name?', 'When do you play?'],
+		answer: 2
+	},
+	{
+		q: 'Father: Shelly, (&emsp;&emsp;&emsp;&emsp;) <br> Girl: OK. Good night, Dad.',
+		options: ['it\'s time for bed.', 'it\'s all right.', 'please watch this.', 'please come to dinner.'],
+		answer: 0
+	},
+	{
+		q: 'Mother: Goodbye. Have a good day at school. <br> Boy: Goodbye. (&emsp;&emsp;&emsp;&emsp;)',
+		options: ['It\'s at the pool.', 'You\'re welcome.', 'I have homework.', 'See you this evening.'],
+		answer: 3
+	},
+	{
+		q: 'Mother: What drink do you want? <br> Girl: (&emsp;&emsp;&emsp;&emsp;)',
+		options: ['Two eggs.', 'Yes, at night.', 'Orange juice, please.', 'Every weekend.'],
+		answer: 2
 	}
 ]
