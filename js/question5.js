@@ -95,7 +95,7 @@ const quiz = [
 	{
 		q: 'Girl 1: What does your sister do on Saturdays? <br> Girl 2: (&emsp;&emsp;&emsp;&emsp;)',
 		options: ['Thank you very much.', 'She plays with her dog.', 'It\'s January 11.', 'It\'s in the afternoon.'],
-		answer: 3
+		answer: 1
 	},
 	{
 		q: 'Woman: Are you a cook? <br> Man: (&emsp;&emsp;&emsp;&emsp;) I work at a Chinese restaurant',
