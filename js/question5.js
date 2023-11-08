@@ -243,7 +243,7 @@ const quiz = [
 		answer: 3
 	},
 	{
-		q: 'October is the tenth (&emsp;&emsp;&emsp;&emsp;) month of the year.',
+		q: 'October is the tenth (&emsp;&emsp;&emsp;&emsp;) of the year.',
 		options: ['day', 'week', 'month', 'hour'],
 		answer: 2
 	},
