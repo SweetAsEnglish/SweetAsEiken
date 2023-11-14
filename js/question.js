@@ -401,5 +401,15 @@ const quiz = [
 		q: 'Mother: Do you want something to eat, Chris? <br> Son: Yes, please. (&emsp;&emsp;&emsp;&emsp;)',
 		options: ['You can use mine.', 'I\'d like some potato chips.', 'It\'s by the supermarket.', 'I\'ll ask her a question.'],
 		answer: 1
+	},
+	{
+		q: 'Cindy\'s teacher was (&emsp;&emsp;&emsp;&emsp;) because Cindy forgot to do her homework again.',
+		options: ['rich', 'easy', 'angry', 'happy'],
+		answer: 2
+	},
+	{
+		q: 'Paris has many famous art (&emsp;&emsp;&emsp;&emsp;), so I want to visit there someday.',
+		options: ['museums', 'windows', 'pools', 'towels'],
+		answer: 0
 	}
 ]
