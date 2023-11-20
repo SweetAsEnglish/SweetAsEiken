@@ -281,5 +281,30 @@ const quiz = [
         q: 'The member of the band <i>Token</i> were looking forward to playing with their new drummer. However, he did not arrive (&emsp;&emsp;&emsp;&emsp;) the concert was over.',
         options: ['unless', 'whether', 'until', 'yet'],
         answer: 2
+    },
+    {
+        q: 'Andrew focused on (&emsp;&emsp;&emsp;&emsp;) for his science report. It was about how certain birds lost the ability to fly over millions of years.',
+        options: ['evolution', 'lansdcape', 'humanity', 'psychology'],
+        answer: 0
+    },
+    {
+        q: 'During his lifetime, the scientist made outstanding contributions to the study of the solar system, to say (&emsp;&emsp;&emsp;&emsp;) of his research in physics.',
+        options: ['worse', 'further', 'better', 'nothing'],
+        answer: 3
+    },
+    {
+        q: 'A: This computer is great, but it costs too much money. <br> B: Don\'t worry, honey. Let me see if I can (&emsp;&emsp;&emsp;&emsp;) the salesperson into giving us a discount, so we can buy it at a cheaper price.',
+        options: ['run', 'burst', 'talk', 'divide'],
+        answer: 2
+    },
+    {
+        q: 'Manny trained very hard for the state athletics championships. (&emsp;&emsp;&emsp;&emsp;) his efforts, he could not win.',
+        options: ['Above', 'Despite', 'Outside', 'Within'],
+        answer: 1
+    },
+    {
+        q: 'Kentaro has always tried to help the other members of the chess club. He has been doing so (&emsp;&emsp;&emsp;&emsp;) since he became the club\'s president earlier this year.',
+        options: ['all the more', 'all the best', 'all the better', 'all the most'],
+        answer: 0
     }
 ]
