@@ -231,7 +231,7 @@ const quiz = [
         q: 'A: Is that the document you were looking for earlier?  <br> B:  Yes, it is. It was (&emsp;&emsp;&emsp;&emsp;) under a pile of papers on my desk. I really need to be more organized.',
         options: ['dyed', 'peeled', 'buried', 'broken'],
         answer: 2
-    }
+    },
     {
         q: 'The big storm caused a lot of damage to many of the homes in the city. The cost to repair all the damage (&emsp;&emsp;&emsp;&emsp;) over $70 million.',
         options: ['amounted to', 'aimed at', 'calmed down', 'checked with'],
