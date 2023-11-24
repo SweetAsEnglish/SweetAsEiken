@@ -128,7 +128,7 @@ const quiz = [
         answer: 0
     },
     {
-        q: 'A: How much does it cost to travel to New Zealand?   <br> B: Well, the prices (&emsp;&emsp;&emsp;&emsp;). They are high over the Xmas holidays as it is summer, but much lower at other times of the year',
+        q: 'A: How much does it cost to travel to New Zealand?   <br> B: Well, the prices (&emsp;&emsp;&emsp;&emsp;). They are high over the Xmas holidays as it is summer, but much lower at other times of the year.',
         options: ['vary', 'navigate', 'pause', 'struggle'],
         answer: 0
     },
@@ -306,5 +306,105 @@ const quiz = [
         q: 'Kentaro has always tried to help the other members of the chess club. He has been doing so (&emsp;&emsp;&emsp;&emsp;) since he became the club\'s president earlier this year.',
         options: ['all the more', 'all the best', 'all the better', 'all the most'],
         answer: 0
+    },
+    {
+        q: 'A: Julian asked me to marry him. Do you think I should say yes?   <br> B: You have to use your own (&emsp;&emsp;&emsp;&emsp;) to decide. No one else can do it for you.',
+        options: ['income', 'convention', 'judgement', 'geography'],
+        answer: 2
+    },
+    {
+        q: 'A: What did you think of my essay, Jordan?   <br> B: Well, some of the explanations you gave are a bit (&emsp;&emsp;&emsp;&emsp;). Maybe you should make those parts clearer.',
+        options: ['harmful', 'previous', 'certain', 'vague'],
+        answer: 3
+    },
+    {
+        q: 'A: I\'m sorry that I came home late. Did you have dinner without me?   <br> B: Yes. We were very hungry, but I (&emsp;&emsp;&emsp;&emsp;) some food for you. I\'ll heat it up now.',
+        options: ['cut down', 'hung up', 'took after', 'set aside'],
+        answer: 3
+    },
+    {
+        q: 'A: Mom, can I go to the park to play with John later?   <br> B: Yes, (&emsp;&emsp;&emsp;&emsp;) you finish your homework first.',
+        options: ['provide', 'provided', 'to provide', 'struggle'],
+        answer: 1
+    },
+    {
+        q: 'Kobe had been getting bad grades in math for a long time, but he did not do anything about it. Finally, he decided to (&emsp;&emsp;&emsp;&emsp;) the problem and ask his teacher for help.',
+        options: ['alter', 'impress', 'honor', 'confront'],
+        answer: 3
+    },
+    {
+        q: 'The St. Patrick\'s Day parade started on the 10th Avenue and (&emsp;&emsp;&emsp;&emsp;) slowly to the center of town.',
+        options: ['illustrated', 'reminded', 'proceeded', 'defended'],
+        answer: 2
+    },
+    {
+        q: 'Before there were motor vehicles, people often used (&emsp;&emsp;&emsp;&emsp;) that were pulled by horses to make long journeys.',
+        options: ['carriages', 'fantasies', 'puzzles', 'luxuries'],
+        answer: 0
+    },
+    {
+        q: 'Janine bought four silk hankerchiefs. Because she was going to give each one to a different co-worker, she asked the salesclerk to wrap them (&emsp;&emsp;&emsp;&emsp;).',
+        options: ['legally', 'financially', 'accidentally', 'individually'],
+        answer: 3
+    },
+    {
+        q: 'In the first lecture, Professor Williams (&emsp;&emsp;&emsp;&emsp;) how important it was to take good notes. He mentioned it three or four times.',
+        options: ['engaged', 'divided', 'buried', 'stressed'],
+        answer: 3
+    },
+    {
+        q: 'Yesterday, there was a small fire at a house on the street where Ben lives. Firefighters (&emsp;&emsp;&emsp;&emsp;) water onto the fire and soon put it out.',
+        options: ['sprayed', 'demanded', 'awarded', 'punished'],
+        answer: 0
+    },
+    {
+        q: 'In the game <i>Invasion!</i>, each player tries to take over other countries and build an (&emsp;&emsp;&emsp;&emsp;).',
+        options: ['urgency', 'offspring', 'empire', 'impulse'],
+        answer: 2
+    },
+    {
+        q: 'In the science class, Ms. Stanley lit a candle and asked her students to look at the (&emsp;&emsp;&emsp;&emsp;). She told them that the hottest part was where it was blue.',
+        options: ['triumph', 'religion', 'flame', 'luggage'],
+        answer: 2
+    },
+    {
+        q: 'Mimi\'s parents finally bought her a guitar after she promised to practice every day, but she quit playing after just two months. They were very (&emsp;&emsp;&emsp;&emsp;) her.',
+        options: ['capable of', 'inspired by', 'attracted to', 'disappointed in'],
+        answer: 3
+    },
+    {
+        q: 'Due to construction work on Regent Street, the electricity to the houses on the street had to be (&emsp;&emsp;&emsp;&emsp;) for several hours.',
+        options: ['heard of', 'turned over', 'shut off', 'ruled out'],
+        answer: 2
+    },
+    {
+        q: 'Silk Electronics has confirmed that it will be (&emsp;&emsp;&emsp;&emsp;) its new smartphone next month. The release has been delayed for several months due to techincal issues.',
+        options: ['bringing out', 'falling for', 'picking on', 'giving off'],
+        answer: 0
+    },
+    {
+        q: 'Water that falls as snow and rain in the Andes Mountains travels thousands of kilometers down the Amazon River and eventually (&emsp;&emsp;&emsp;&emsp;) the Atlantic Ocean.',
+        options: ['flows into', 'runs across', 'hands over', 'digs up'],
+        answer: 0
+    },
+    {
+        q: 'Applicants for the jobs at Scorpion Foods must apply (&emsp;&emsp;&emsp;&emsp;). They are not allowed to mail their application forms. Instead, they must take them to the store manager or the front desk.',
+        options: ['at ease', 'at length', 'in person', 'in detail'],
+        answer: 2
+    },
+    {
+        q: 'The students in Jay\'s class take turns to look after things in the classroom. This week, Jay is (&emsp;&emsp;&emsp;&emsp;) of checking that there is no trash on the floor at the end of the day.',
+        options: ['for fear', 'in charge', 'on behalf', 'by way'],
+        answer: 1
+    },
+    {
+        q: 'Akiko is an excellent cook. Her soups and curries are as good as (&emsp;&emsp;&emsp;&emsp;) that are served in a restaurant.',
+        options: ['none', 'any', 'other', 'few'],
+        answer: 1
+    },
+    {
+        q: 'Mr. Miyagi is very rich and lives in a huge house. His kitchen is five times (&emsp;&emsp;&emsp;&emsp;) other people\'s kitchens.',
+        options: ['large from', 'size from', 'the large of', 'the size of'],
+        answer: 3
     }
 ]
