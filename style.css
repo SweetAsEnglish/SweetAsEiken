@@ -159,6 +159,23 @@ a {
 	transform: translate(-50%, -50%);
 }
 
+.grade2vocab {
+	position: absolute;
+	min-width: 70px;
+	min-height: 50px;
+	left: 35%;
+	top: 75%;
+	margin-right: 20px;
+	border: solid #000000;
+	border-radius: 10px;
+	font-family: 'MS UI Gothic';
+	font-weight: 300;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+	transform: translate(-50%, -50%);
+}
+
 /* @media only screen and (max-width:480px) {  */
 /* .btn {width: 100%; font-size: 4.25em; } */
 
@@ -327,7 +344,7 @@ a {
 }
 
 .btn2 {
-	padding: 13px 35px;
+	padding: 13px 30px;
 	background-color: #ffffff;
 	color: #000000;
 	border: solid #000000;
