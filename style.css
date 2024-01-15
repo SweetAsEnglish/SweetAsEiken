@@ -410,7 +410,7 @@ a {
 	border-radius: 5px;
 	margin-bottom: 10px;
 	cursor: pointer;
-	// text-transform: capitalize; // Not needed for EIKEN
+	/* text-transform: capitalize; Not needed for EIKEN */
 	opacity: 0;
 	animation: fadeIn 0.3s ease forwards;
 	position: relative;
