@@ -576,5 +576,25 @@ const quiz = [
 		q: 'Kenta  went to school early today (&emsp;&emsp;&emsp;&emsp;) basketball.',
 		options: ['to practice', 'practiced', 'practice', 'practicing'],
 		answer: 0
+	},
+	{
+		q: 'Salesclerk: Good morning, sir. Can I help you? <br> Customer: No, thanks. I\'m just looking. <br> Salesclerk: All right. Please tell me (&emsp;&emsp;&emsp;&emsp;)',
+		options: ['if I have one.', 'when it will arrive.', 'if you need me.', 'when you can come.'],
+		answer: 2
+	},
+	{
+		q: 'Man: Why don\'t we go out to dinner tonight? <br> Woman: OK. (&emsp;&emsp;&emsp;&emsp;) <br> Man: Sounds good.',
+		options: ['What about Italian food?', 'Let\'s eat at home.', 'Can you pass the salt?', 'I\'ll clean the table.'],
+		answer: 0
+	},
+	{
+		q: 'Husband: Do you like any of the raincoats in this shop? <br> Wife: (&emsp;&emsp;&emsp;&emsp;) I think I\'ll buy it.',
+		options: ['It rains a lot during winter.', 'It was a gift from my sister.', 'The red one over there is nice.', 'The sale finished last weekend.'],
+		answer: 2
+	},
+	{
+		q: 'Boy: Hurry up, Patty. We need to go to math class. <br> Girl: (&emsp;&emsp;&emsp;&emsp;) I have to get my calculator from my locker.',
+		options: ['Nine o\'clock.', 'Just a little.', 'I know the answer.', 'Wait a minute.'],
+		answer: 3
 	}
 ]
