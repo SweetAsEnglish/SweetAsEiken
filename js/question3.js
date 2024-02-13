@@ -596,5 +596,10 @@ const quiz = [
 		q: 'Boy: Hurry up, Patty. We need to go to math class. <br> Girl: (&emsp;&emsp;&emsp;&emsp;) I have to get my calculator from my locker.',
 		options: ['Nine o\'clock.', 'Just a little.', 'I know the answer.', 'Wait a minute.'],
 		answer: 3
-	}
+	},
+	{
+		q: 'When Dan woke up on his birthday, he saw a box by the door. He opened it and found (&emsp;&emsp;&emsp;&emsp;) there was a new rugby ball inside.',
+		options: ['of', 'under', 'out', 'it'],
+		answer: 2
+	},
 ]
