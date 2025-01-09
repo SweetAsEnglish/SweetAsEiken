@@ -90,7 +90,7 @@ const quiz = [
     },
     {
         q: 'After the accident, the driver was (&emsp;&emsp;&emsp;&emsp;) of driving over the speed limit.',
-        options: ['accused', 'bothered', 'deteriorate', 'regulate'],
+        options: ['accused', 'bothered', 'manipulated', 'imposed'],
         answer: 0
     },
     {
