@@ -120,7 +120,7 @@ const quiz = [
     },
     {
         q: 'By (&emsp;&emsp;&emsp;&emsp;), Dan met an old  school friend from Japan while he was on vacation with his family in France. He was surprised to meet someone he knew so far from home.',
-        options: ['coincidence', 'sypmtom', 'limitation', 'succession'],
+        options: ['coincidence', 'symptom', 'limitation', 'succession'],
         answer: 0
     },
     {
