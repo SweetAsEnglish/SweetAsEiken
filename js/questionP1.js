@@ -102,5 +102,30 @@ const quiz = [
         q: 'The government plans to (&emsp;&emsp;&emsp;&emsp;) new regulations to combat climate change.',
         options: ['enforce', 'abolish', 'withhold', 'destroy'],
         answer: 0
+    },
+    {
+        q: 'All of Sergio\'s coworkers respect him for his (&emsp;&emsp;&emsp;&emsp;) ideas. He has suggested many new and creative ways to improve his team\'s performance.',
+        options: ['mournful', 'innovative', 'abrupt', 'useless'],
+        answer: 1
+    },
+    {
+        q: 'The vet was unable to give a specific (&emsp;&emsp;&emsp;&emsp;) of what was causing the dog\'s behavior. She decided to send it to a specialist for further testing.',
+        options: ['execution', 'vaccination', 'diagnosis', 'language'],
+        answer: 2
+    },
+    {
+        q: 'Jordan did not (&emsp;&emsp;&emsp;&emsp;) a single word after he broke the window. He remained silent until his mom came and asked what had happened.',
+        options: ['scorch', 'intensify', 'exceed', 'utter'],
+        answer: 3
+    },
+    {
+        q: 'By (&emsp;&emsp;&emsp;&emsp;), Dan met an old  school friend from Japan while he was on vacation with his family in France. He was surprised to meet someone he knew so far from home.',
+        options: ['coincidence', 'sypmtom', 'limitation', 'succession'],
+        answer: 0
+    },
+    {
+        q: 'James often gives talks at business conferences because of his (&emsp;&emsp;&emsp;&emsp;). He has helped many companies and successfully manages some of them himself.',
+        options: ['notation', 'expertise', 'stimulus', 'limitation'],
+        answer: 1
     }
 ]	
