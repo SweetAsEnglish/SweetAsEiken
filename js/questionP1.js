@@ -45,7 +45,7 @@ const quiz = [
     },
     {
         q: 'Nick and his brother had an (&emsp;&emsp;&emsp;&emsp;) about whose turn it was to cook dinner. They each thought that they were the one who had prepared it last time.',
-        options: ['appointment', 'argument', 'occaison', 'identity'],
+        options: ['appointment', 'argument', 'occasion', 'identity'],
         answer: 1
     },
     {
